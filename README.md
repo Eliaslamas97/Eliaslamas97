@@ -6,9 +6,6 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 &nbsp;&nbsp;
 
-
-## :star: Languages and Tools:
-
 <p align= "center">
   <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
   <img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png">

@@ -41,6 +41,15 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 </p>
 
 *Videogames App* <a href='https://pi-videogames-elias.vercel.app/'>Link al proyecto</a>
+
+**Full Stack Web Developer - Videogames App**  
+<br/>                                                       
+*Henry Bootcamp, Buenos Aires, Argentina.*
+<br/>
+- Diseñar y desarrollar una Single-page application en la cual se puedan ver los distintos videojuegos disponibles junto con información relevante de los mismos utilizando la api externa rawg y a partir de ella poder, entre otras cosas, buscar videojuegos, filtrarlos, ordenarlos y agregar nuevos videojuegos.
+
+<p>
+
 <p>
   <a><img src="https://github.com/Eliaslamas97/Eliaslamas97/blob/main/images/Videogames.png"></a>
 </p>

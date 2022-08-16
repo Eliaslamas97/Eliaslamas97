@@ -37,10 +37,10 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 - Desarrollar la app en React con estilos en CSS, Bootstrap y Chakra-Ui, notificaciones con sendGrid y chat implementado con Socket.io. Back desarrollado en Node con Express, base de datos en PostgreSQL y Sequelize.
 
 <p>
-  <a><img src="https://github.com/Eliaslamas97/Eliaslamas97/blob/main/assets/FaltaUno.png"></a>
+  <a><img src="https://github.com/Eliaslamas97/Eliaslamas97/blob/main/images/FaltaUno.png"></a>
 </p>
 
 *Videogames App* <a href='https://pi-videogames-elias.vercel.app/'>Link al proyecto</a>
 <p>
-  <a><img src="https://github.com/Eliaslamas97/Eliaslamas97/blob/main/assets/Videogames.png"></a>
+  <a><img src="https://github.com/Eliaslamas97/Eliaslamas97/blob/main/images/Videogames.png"></a>
 </p>

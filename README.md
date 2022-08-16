@@ -24,3 +24,23 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 </p>
 
 &nbsp;
+
+## :pushpin: My proyects
+
+*Falta Uno App* <a href='https://falta-uno-henry.vercel.app/'>Link al proyecto</a>
+
+**Full Stack Web Developer - Falta Uno App**  
+<br/>                                                       
+*Henry Bootcamp, Buenos Aires, Argentina.*
+<br/>
+- Diseñar y desarrollar una App para el alquiler de canchas en complejos deportivos que incluía: Login, agenda, calendario, chat interno, notificaciones y pasarela de pagos.
+- Desarrollar la app en React con estilos en CSS, Bootstrap y Chakra-Ui, notificaciones con sendGrid y chat implementado con Socket.io. Back desarrollado en Node con Express, base de datos en PostgreSQL y Sequelize.
+
+<p>
+  <a><img src="https://github.com/Eliaslamas97/Eliaslamas97/blob/main/assets/FaltaUno.png"></a>
+</p>
+
+*Videogames App* <a href='https://pi-videogames-elias.vercel.app/'>Link al proyecto</a>
+<p>
+  <a><img src="https://github.com/Eliaslamas97/Eliaslamas97/blob/main/assets/Videogames.png"></a>
+</p>

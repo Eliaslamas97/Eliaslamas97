@@ -1,4 +1,4 @@
-![Hi, I'm Elias](https://github.com/Eliaslamas97/Eliaslamas97/blob/main/assets/banner.gif)
+![Hi, I'm Elias](https://github.com/Eliaslamas97/Eliaslamas97/blob/main/assets/banner2.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:

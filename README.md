@@ -4,6 +4,23 @@
 Full Stack Developer :heart: from Argentina to :earth_americas:
 </h2>
 
+##Sobre mi
+
+*¿Quien soy? <br/>
+⚡️Desarrollador full stack con capacidad de realizar proyectos web, teniendo siempre en mente que sean escalables y modularizables para así poder construir en equipo.
+<br/>
+<br/>
+*¿Porque yo?<br/>
+⚡️Todos los miembros de esta comunidad tenemos excelentes habilidades técnicas, sin embargo conmigo obtendrás un desarrollador curioso con gran capacidad de resolución de problemas y sobre todo siempre dispuesto a enseñar y aprender de los demás.
+<br/>
+<br/>
+*¿Mi historia laboral?<br/>
+⚡️Mi experiencia ha sido principalmente en el ámbito académico, durante 4 años me desempeñe como estudiante de Abogacía donde aprendí fuertes bases en pensamiento lógico, critico y analítico, liderazgo y toma de decisiones. También complete el Bootcamp teórico-práctico de Henry, donde pude ejercitar mis capacidades técnicas, pero sobre todo mis habilidades blandas como desarrollador.
+
+¿Quieres saber mas de mi? ¡Contactame!
+📞 (+54)3884642470
+✉️ elilamas097@gmail.com
+
 &nbsp;&nbsp;
 
 <p align= "center">

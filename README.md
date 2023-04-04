@@ -20,7 +20,6 @@ Sobre mi
 ⚡️Mi experiencia ha sido principalmente en el ámbito académico, durante 4 años me desempeñe como estudiante de Abogacía donde aprendí fuertes bases en pensamiento lógico, critico y analítico, liderazgo y toma de decisiones. También complete el Bootcamp teórico-práctico de Henry, donde pude ejercitar mis capacidades técnicas, pero sobre todo mis habilidades blandas como desarrollador.
 <br/>
 ¿Quieres saber mas de mi? ¡Contactame!
-📞 (+54)3884642470
 ✉️ elilamas097@gmail.com
 
 &nbsp;&nbsp;

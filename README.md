@@ -1,7 +1,7 @@
 ![Hi, I'm Elias](https://github.com/Eliaslamas97/Eliaslamas97/blob/main/assets/banner2.gif)
 
 <h2 align="center">
-BackEnd Developer and Blockchain Developer :heart: from Argentina to :earth_americas:
+BackEnd Developer and Blockchain Developer
 </h2>
 
 <h3 align="center">
